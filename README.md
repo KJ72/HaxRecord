@@ -1,2 +1,2 @@
 # HaxRecord
-record your .hbr2 file and directly download it in mp4 version
+this uses haxball replay analyzer to record your gameplay and then lets you download the mp4 version.
